@@ -160,6 +160,6 @@ $ pwd           //用于显示当前目录
 2. [CSDN:git解决The authenticity of host 'github.com(192.30.255.112)' can't beestablish问题](https://www.liaoxuefeng.com/wiki/896043488029600)
 3. [CSDN:Git master branch has no upstream branch的解决](http://t.csdn.cn/Jg7pt)
 4. [CSDN:Git 连接Github](http://t.csdn.cn/3oWYy)
-5. [BillBill:【git操作入门】](https://b23.tv/zix9HEr)
-6. [BillBill:【git工作流和核心原理】](https://b23.tv/iRaGExf)
+5. [bilibili:【git操作入门】](https://b23.tv/zix9HEr)
+6. [bilibili:【git工作流和核心原理】](https://b23.tv/iRaGExf)
 
