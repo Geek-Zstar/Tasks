@@ -146,3 +146,20 @@ $ pwd           //用于显示当前目录
 2. SSH警告
 
    根据廖老师的教程得知这个问题的名字，解决方法很简单，输入yes之后回车即可。实际上，这是由于SSH连接第一次验证GitHub服务器的Key时，需要确认Key的指纹信息是否真的来自GitHub的服务器。防止有替身吗？（
+
+
+
+
+
+
+
+##### 参考资料
+
+1. [梁雪峰的git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+
+2. [CSDN:git解决The authenticity of host 'github.com(192.30.255.112)' can't beestablish问题](https://www.liaoxuefeng.com/wiki/896043488029600)
+3. [CSDN:Git master branch has no upstream branch的解决](http://t.csdn.cn/Jg7pt)
+4. [CSDN:Git 连接Github](http://t.csdn.cn/3oWYy)
+5. [BillBill:【git操作入门】](https://b23.tv/zix9HEr)
+6. [BillBill:【git工作流和核心原理】](https://b23.tv/iRaGExf)
+
