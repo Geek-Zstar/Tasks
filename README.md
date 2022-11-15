@@ -12,3 +12,4 @@ To be a Geek!
 ### 3️⃣阶段三：Unity学习
 * [Unity学习笔记 下载、界面、素材导入](https://github.com/Geek-Zstar/Tasks/blob/main/Unity%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E4%B8%8B%E8%BD%BD%E3%80%81%E7%95%8C%E9%9D%A2%E3%80%81%E7%B4%A0%E6%9D%90%E5%AF%BC%E5%85%A5.md)
 * [Unity学习笔记 场景构建与图层关系](https://github.com/Geek-Zstar/Tasks/blob/main/Unity%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E5%9C%BA%E6%99%AF%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%9B%BE%E5%B1%82%E5%85%B3%E7%B3%BB.md)
+* [Unity学习笔记 角色、组件、动画](https://github.com/Geek-Zstar/Tasks/blob/main/Unity%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E8%A7%92%E8%89%B2%E3%80%81%E7%BB%84%E4%BB%B6%E3%80%81%E5%8A%A8%E7%94%BB.md)
