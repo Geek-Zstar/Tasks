@@ -15,4 +15,4 @@ To be a Geek!
 * [Unity学习笔记 角色、组件、动画](https://github.com/Geek-Zstar/Tasks/blob/main/Unity%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E8%A7%92%E8%89%B2%E3%80%81%E7%BB%84%E4%BB%B6%E3%80%81%E5%8A%A8%E7%94%BB.md)
 > 持续推进中
 ### 4️⃣阶段四：C#学习
-* [C#学习笔记 基础语法、数据类型、面向对象思想]()
+* [C#学习笔记 基础语法、数据类型、面向对象思想](https://github.com/Geek-Zstar/Tasks/blob/main/C%23%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E3%80%81%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E3%80%81%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%80%9D%E6%83%B3.md)
